@@ -12,22 +12,22 @@ Since I want to create a web app and it is easy to develop and organize various 
 
 In my code example, the file name is views.py, and let's take a look at what the code inside does.
 
-    1.1 Create simulated data. The data is stored as a data dictionary because it has access to more than one data, such as translations, word types, etc. Modeling the data as a data dict makes the code easy to read and easy to retrieve the data.
+1.1 Create simulated data. The data is stored as a data dictionary because it has access to more than one data, such as translations, word types, etc. Modeling the data as a data dict makes the code easy to read and easy to retrieve the data.
 
 ![Image!](images/data-list.png)
 
-    1.2 In the index function, it is responsible for arranging data and then displaying the information on the web page. In addition, you can search for words by letters. You can search for previous and next similar words.
+1.2 In the index function, it is responsible for arranging data and then displaying the information on the web page. In addition, you can search for words by letters. You can search for previous and next similar words.
 
 ![Image!](images/F-index.png)
 
-    1.3 in the create_or_update function There is a check from the mode value received from the url that if it is create, it will create new data, but if it is update, it will update the value.
-    And the way to know which item to update is to check from the key[word] value.
+1.3 in the create_or_update function There is a check from the mode value received from the url that if it is create, it will create new data, but if it is update, it will update the value.
+And the way to know which item to update is to check from the key[word] value.
 
 ![Image!](images/F-createOrUpdate.png)
 
 ![Image!](images/F-createOrUpdate-2.png)
 
-    1.4 In the Delete function, key[word] is checked. If it matches, it will be deleted.
+ 1.4 In the Delete function, key[word] is checked. If it matches, it will be deleted.
 
 ![Image!](images/F-delete.png)
 
