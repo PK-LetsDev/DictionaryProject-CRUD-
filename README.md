@@ -49,7 +49,10 @@ index.html
 create_or_update.html
 ![Image!](images/file-createOrUpdate.png)
 
-  
+When we have created things completely Let's take a look at the web page results.
+
+<video width="630" height="300" src="https://github.com/PK-LetsDev/DictionaryProject-CRUD-Python/assets/116660646/65180704-b2ed-4faa-9319-7c71b8233fc0"></video>
+
 
 
 
