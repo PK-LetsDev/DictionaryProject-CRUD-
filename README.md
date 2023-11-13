@@ -49,15 +49,9 @@ index.html
 create_or_update.html
 ![Image!](images/file-createOrUpdate.png)
 
-When we have created things completely Let's take a look at the web page results.  
+When we have created things completely Let's take a look at the web page results.
 
-<video width="100" height="100" controls>
-  <source src="video/DictionaryWeb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
+https://github.com/PK-LetsDev/DictionaryProject-CRUD-Python/assets/116660646/f21c71b6-0bca-4714-b346-ffe8f010f1f6
 
 
 
